@@ -30,7 +30,7 @@ El objetivo de este proyecto es hacer un juego ascii art basado en el famoso jue
 
 ## FTXUI
 ```Bash
-git clone https://github.com/ArthurSonzogni/FTXUI.> git
+git clone https://github.com/ArthurSonzogni/FTXUI.git
 sudo apt install cmake
 cd FTXUI
 mkdir build
