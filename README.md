@@ -56,4 +56,5 @@ sudo apt install graphviz
 - 23110155 - Tetrix
 - 23110160 - Zelda
 - 23110161 - DungeonCrawler
+- 22310202 - Buscaminas
 
